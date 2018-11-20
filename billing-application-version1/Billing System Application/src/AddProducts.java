@@ -210,7 +210,7 @@ public class AddProducts extends JFrame {
 		contentPane.add(product_submit);
 		
 		JButton product_cancel = new JButton("Cancel");
-		product_cancel.setBounds(368, 386, 119, 37);
+		product_cancel.setBounds(368, 386, 120, 37);
 		contentPane.add(product_cancel);
 		
 		createTableNew();
